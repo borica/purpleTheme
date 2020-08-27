@@ -1,0 +1,15 @@
+h1{
+    margin:0 !important;
+}
+.jumb{
+    height: 50vh;
+    width: 100%;
+}
+.jumb-text{
+    position: relative;
+    top:40%;
+}
+#main_spacer{
+    margin-top: 3.5rem;
+    margin-bottom: 3.5rem;
+}
